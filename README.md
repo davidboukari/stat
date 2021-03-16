@@ -1,5 +1,5 @@
 # stat
-
+* https://www.tecmint.com/debugfs-command-show-file-creation-time-in-linux/
 ## with ext4
 ```
 ls -lc filename
